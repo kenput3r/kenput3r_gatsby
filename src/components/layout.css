@@ -637,6 +637,16 @@ pre tt:after {
   padding-left: 15px;
   padding-right: 15px;
 }
+.horizontal-line div.top {
+  margin-bottom: 3px;
+  width: 44px;
+}
+.horizontal-line div {
+  background: #bcbcbc none repeat scroll 0 0;
+  height: 2px;
+  margin: 0 auto;
+  width: 77px;
+}
 .mb-60 {
   margin-bottom: 60px;
 }
